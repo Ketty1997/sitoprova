@@ -1,0 +1,1137 @@
+# Translation of Themes - Chaplin in Italian
+# This file is distributed under the same license as the Themes - Chaplin package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-05 11:52:36+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.6\n"
+"Language: it\n"
+"Project-Id-Version: Themes - Chaplin\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Chaplin is a feature-packed and developer friendly WordPress theme that gives you full control over the fonts and colors on your site. It is built from the ground-up with the new Block Editor in mind, and makes it easy to create good looking layouts on both posts and pages. This flexibility makes Chaplin suitable for pretty much any type of website, including business sites and portfolios. All of the fonts and colors in the theme can be easily modified within the Customizer, allowing you to create a unique look and feel for your site in less than a minute. All fonts on Google Fonts are supported, and you can choose one of the ten included color schemes or build one from scratch. Any changes you make to the fonts and colors are reflected in the editor styles for both the Block Editor and the Classic Editor, so you always have a good idea of the end result when you create your content. Chaplin also includes a cover template with a hero image (pictured in the screenshot), infinite scroll on archive pages, settings for what post meta to display on archive pages and single posts, custom logo support, two widget areas, a search overlay, full-width templates, a sticky header option, a social menu with icons, author bio, breadcrumbs, a responsive design, a lightweight construction to ensure quick load times, support for Jetpack Portfolio and CoBlocks, child theme friendly code, and much more. Demo: https://andersnoren.se/themes/chaplin/"
+msgstr "Chaplin è un tema WordPress, ricco di funzionalità e adatto agli sviluppatori, che ti da il pieno controllo sui font e i colori del tuo sito. È costruito da zero con il nuovo editor a blocchi integrato, e rende facile la creazione di layout di bell'aspetto sia sugli articoli che sulle pagine. Questa flessibilità rende Chaplin adatto praticamente a qualsiasi tipo di sito web, compresi i siti aziendali e i portfolio. Tutti i font e i colori del tema possono essere facilmente modificati all'interno di Personalizza, consentendo di creare un look and feel unico per il tuo sito in meno di un minuto. Tutti i font di Google Fonts sono supportati, ed è possibile scegliere uno dei dieci schemi di colore inclusi o costruirne uno da zero. Qualsiasi modifica apportata ai font e ai colori si riflette negli stili dell'editor, sia per l'editor a blocchi che per l'editor classico, in modo da avere sempre una buona idea del risultato finale quando si creano i contenuti. Chaplin include anche un template di copertina con un'immagine hero (raffigurata nello screenshot), uno scroll infinito sulle pagine dell'archivio, le impostazioni di quali post meta visualizzare sulle pagine dell'archivio e sui singoli articoli, il supporto per il logo personalizzato, due aree widget, un campo di ricerca sovrapposto, template a tutta larghezza, l'opzione di header fisso, un menu per i social con icone, un design responsive, una costruzione leggera per garantire tempi di caricamento rapidi, il supporto per Jetpack Portfolio e CoBlocks, codice adatto al tema child, e molto altro ancora. Demo: https://andersnoren.se/themes/chaplin/"
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Chaplin"
+msgstr "Chaplin"
+
+#: parts/template-tags.php:1118
+msgid "Visit Website"
+msgstr "Visita il sito web"
+
+#: parts/template-tags.php:1107
+msgid "View Archive"
+msgstr "Visualizza l'archivio"
+
+#: parts/template-tags.php:958
+msgid "Attachment"
+msgstr "Allegato"
+
+#: parts/template-tags.php:940
+msgid "Archive"
+msgstr "Archivio"
+
+#: parts/template-tags.php:934
+msgid "Year"
+msgstr "Anno"
+
+#: parts/template-tags.php:931
+msgid "Month"
+msgstr "Mese"
+
+#: parts/template-tags.php:928
+msgid "Day"
+msgstr "Giorno"
+
+#: parts/template-tags.php:892
+msgid "Error 404"
+msgstr "Errore 404"
+
+#: parts/template-tags.php:889
+msgid "Home"
+msgstr "Home"
+
+#: parts/template-tags.php:812 parts/template-tags.php:1181
+msgid "To The Previous Page"
+msgstr "Vai alla pagina precedente"
+
+#: parts/classes/class-theme-customizer.php:536
+msgid "Check to show an author bio below the content on single posts."
+msgstr "Seleziona per mostrare la biografia dell'autore sotto il contenuto negli articoli singoli."
+
+#: parts/classes/class-theme-customizer.php:535
+msgid "Show Author Bio"
+msgstr "Mostra la biografia dell'autore"
+
+#: parts/classes/class-theme-customizer.php:497
+msgid "Check to display the social menu in the site header on desktop."
+msgstr "Seleziona per visualizzare il menu social nell'header del sito sul desktop."
+
+#: parts/classes/class-theme-customizer.php:496
+msgid "Show Social Menu in Header on Desktop"
+msgstr "Mostra il menu social nell'header su desktop"
+
+#: parts/classes/class-theme-customizer.php:480
+msgid "Show Horizontal Menu on Desktop"
+msgstr "Mostra il menu orizzontale su desktop"
+
+#: parts/classes/class-theme-customizer.php:117
+msgid "Display breadcrumbs above the title on posts, pages, and archive pages."
+msgstr "Visualizza i breadcrumb sopra il titolo su articoli, pagine e pagine archivio."
+
+#: parts/classes/class-theme-customizer.php:116
+msgid "Show Breadcrumbs"
+msgstr "Mostra breadcrumb"
+
+#: parts/classes/class-theme-customizer.php:101
+msgid "By default, Chaplin will animate the scroll when an anchor link is clicked. Check this to disable that behavior."
+msgstr "Come impostazione predefinita, Chaplin anima lo scorrimento quando si fa clic su un link ancora. Seleziona questo per disabilitare questo comportamento."
+
+#: parts/classes/class-theme-customizer.php:100
+msgid "Disable Smooth Scroll"
+msgstr "Disabilita scorrimento fluido"
+
+#: parts/classes/class-theme-customizer.php:84
+msgid "General theme options for Chaplin."
+msgstr "Opzioni generali del tema Chaplin."
+
+#: parts/classes/class-theme-customizer.php:81
+msgid "General Options"
+msgstr "Opzioni generali"
+
+#: parts/classes/class-theme-customizer.php:21
+msgid "Options included in the Chaplin theme."
+msgstr "Opzioni incluse nel tema Chaplin."
+
+#: parts/classes/class-theme-customizer.php:20
+msgid "Theme Options"
+msgstr "Opzioni del tema"
+
+#: parts/classes/class-theme-customizer.php:1286
+msgctxt "Color scheme name"
+msgid "Daisy&rsquo;s"
+msgstr "Daisy"
+
+#. Translators: $s = name of the theme developer
+#: footer.php:71
+msgid "Anders Nor&eacute;n"
+msgstr "Anders Nor&eacute;n"
+
+#: parts/classes/class-theme-customizer.php:54
+msgid "Displayed instead of the regular logo on pages using the Cover Template."
+msgstr "Visualizzato al posto del logo normale sulle pagine che utilizzano il template Copertina"
+
+#: parts/classes/class-theme-customizer.php:53
+msgid "Overlay Logo"
+msgstr "Logo in sovrimpressione"
+
+#: parts/template-tags.php:1156
+msgid "Next post:"
+msgstr "Articolo successivo:"
+
+#: parts/template-tags.php:1155
+msgid "Previous post:"
+msgstr "Articolo precedente:"
+
+#: parts/classes/class-theme-customizer.php:710
+msgid "Whether to display the archive title and description on the main posts page."
+msgstr "Scegli se mostrare il titolo e la descrizione dell'archivio nella pagina principale degli articoli."
+
+#: parts/classes/class-theme-customizer.php:709
+msgid "Show Archive Header On The Blog Page"
+msgstr "Mostra l'header dell'archivio sulla pagina del blog"
+
+#: parts/classes/class-theme-customizer.php:684
+msgid "Original aspect ratio of each image"
+msgstr "Proporzioni originali di ogni immagine"
+
+#: parts/classes/class-theme-customizer.php:683
+msgid "16:9"
+msgstr "16:9"
+
+#: parts/classes/class-theme-customizer.php:682
+msgid "16:10"
+msgstr "16:10"
+
+#: parts/classes/class-theme-customizer.php:681
+msgid "4:3"
+msgstr "4:3"
+
+#: parts/classes/class-theme-customizer.php:680
+msgid "1:1"
+msgstr "1:1"
+
+#: parts/classes/class-theme-customizer.php:679
+msgid "3:4"
+msgstr "3:4"
+
+#: parts/classes/class-theme-customizer.php:678
+msgid "10:16"
+msgstr "10:16"
+
+#: parts/classes/class-theme-customizer.php:677
+msgid "9:16"
+msgstr "9:16"
+
+#: parts/classes/class-theme-customizer.php:675
+msgid "Aspect ratio of featured images on archive pages."
+msgstr "Proporzioni dell'immagine in evidenza nelle pagine d'archivio."
+
+#: parts/classes/class-theme-customizer.php:674
+msgid "Preview Image Aspect Ratio"
+msgstr "Anteprima delle proporzioni dell'immagine"
+
+#: parts/classes/class-theme-customizer.php:634
+msgid "Determines how the pagination on archive pages should be displayed."
+msgstr "Determina come viene mostrata la paginazione nelle pagine d'archivio."
+
+#: header.php:24
+msgid "Skip to the content"
+msgstr "Salta al contenuto"
+
+#: parts/classes/class-theme-customizer.php:1302
+msgctxt "Color scheme name"
+msgid "Inverness"
+msgstr "Inverness"
+
+#: parts/classes/class-theme-customizer.php:1270
+msgctxt "Color scheme name"
+msgid "Bloom"
+msgstr "Fioritura"
+
+#: parts/classes/class-theme-customizer.php:1254
+msgctxt "Color scheme name"
+msgid "Tilted Cyan"
+msgstr "Tilted Cyan"
+
+#: parts/classes/class-theme-customizer.php:1238
+msgctxt "Color scheme name"
+msgid "Mint Condition"
+msgstr "Mint Condition"
+
+#: parts/classes/class-theme-customizer.php:1222
+msgctxt "Color scheme name"
+msgid "Taxi"
+msgstr "Taxi"
+
+#: parts/classes/class-theme-customizer.php:1206
+msgctxt "Color scheme name"
+msgid "Twisted Sisters"
+msgstr "Twisted Sisters"
+
+#: parts/classes/class-theme-customizer.php:1190
+msgctxt "Color scheme name"
+msgid "Naxos"
+msgstr "Naxos"
+
+#: parts/classes/class-theme-customizer.php:1174
+msgctxt "Color scheme name"
+msgid "Macchiato"
+msgstr "Macchiato"
+
+#: parts/classes/class-theme-customizer.php:1158
+msgctxt "Color scheme name"
+msgid "Default"
+msgstr "Predefinito"
+
+#: parts/classes/class-theme-customizer.php:966
+msgid "Buttons Text Color"
+msgstr "Colore del testo dei pulsanti"
+
+#: parts/classes/class-theme-customizer.php:961
+msgid "Buttons Background Color"
+msgstr "Colore di sfondo dei pulsanti"
+
+#: parts/classes/class-theme-customizer.php:147
+msgid "Selecting a color scheme will update the settings on the \"Colors\" Customizer panel."
+msgstr "Selezionare una combinazione di colori aggiornerà le impostazioni nel pannello \"Colori\" di Personalizza."
+
+#: parts/classes/class-theme-customizer.php:129
+#: parts/classes/class-theme-customizer.php:187
+msgid "Select which color scheme to use."
+msgstr "Seleziona quale combinazione di colori usare."
+
+#: parts/classes/class-theme-customizer.php:126
+#: parts/classes/class-theme-customizer.php:146
+#: parts/classes/class-theme-customizer.php:184
+msgid "Color Schemes"
+msgstr "Combinazioni di colori"
+
+#. Template Name of the theme
+msgid "Full Width Cover Template"
+msgstr "Template Copertina a larghezza piena "
+
+#. Template Name of the theme
+msgid "Only Content Template"
+msgstr "Template solo contenuto"
+
+#. Template Name of the theme
+msgid "Full Width and Only Content Template"
+msgstr "Template solo contenuto a larghezza piena"
+
+#. Template Name of the theme
+msgid "Full Width Template"
+msgstr "Template a larghezza piena"
+
+#. Translators: %s = the number of review
+#: comments.php:24
+msgctxt "Translators: %s = the number of reviews"
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] "%s recensione"
+msgstr[1] "%s recensioni"
+
+#: parts/classes/class-theme-customizer.php:659
+msgid "Four"
+msgstr "Quattro"
+
+#: parts/classes/class-theme-customizer.php:658
+msgid "Three"
+msgstr "Tre"
+
+#: parts/classes/class-theme-customizer.php:657
+msgid "Two"
+msgstr "Due"
+
+#: parts/classes/class-theme-customizer.php:656
+msgid "One"
+msgstr "Uno"
+
+#: parts/classes/class-theme-customizer.php:654
+msgid "The maximum number of columns to use in the post grid."
+msgstr "Il numero massimo di colonne da usare nella griglia degli articoli."
+
+#: parts/classes/class-theme-customizer.php:653
+msgid "Number of Columns"
+msgstr "Numero di colonne"
+
+#: parts/classes/class-theme-customizer.php:508
+msgid "Settings for post archives."
+msgstr "Impostazioni per gli archivi degli articoli."
+
+#: parts/classes/class-theme-customizer.php:505
+msgid "Post Archive"
+msgstr "Archivio degli articoli"
+
+#: parts/classes/class-theme-customizer.php:516
+msgid "Settings for single posts."
+msgstr "Impostazioni per gli articoli singoli."
+
+#: parts/classes/class-theme-customizer.php:513
+msgid "Single Post"
+msgstr "Articolo singolo"
+
+#: parts/classes/class-theme-customizer.php:792
+msgid "Fade out the text in the header as the visitor scrolls down the page."
+msgstr "Dissolvi il testo nell'header quando il visitatore scorre la pagina verso il basso."
+
+#: parts/classes/class-theme-customizer.php:791
+msgid "Fade Text On Scroll"
+msgstr "Dissolvi il testo allo scorrimento"
+
+#: parts/classes/class-theme-customizer.php:956
+msgid "Headings Text Color"
+msgstr "Colore dei titoli"
+
+#: parts/classes/class-theme-customizer.php:330
+msgid "45%"
+msgstr "45%"
+
+#: parts/classes/class-theme-customizer.php:328
+msgid "35%"
+msgstr "35%"
+
+#: parts/classes/class-theme-customizer.php:326
+msgid "25%"
+msgstr "25%"
+
+#: parts/classes/class-theme-customizer.php:324
+msgid "15%"
+msgstr "15%"
+
+#: parts/classes/class-theme-customizer.php:322
+msgid "5%"
+msgstr "5%"
+
+#: parts/classes/class-theme-customizer.php:320
+msgid "-5%"
+msgstr "-5%"
+
+#: parts/classes/class-theme-customizer.php:319
+msgid "-10%"
+msgstr "-10%"
+
+#: parts/classes/class-theme-customizer.php:318
+msgid "-15%"
+msgstr "-15%"
+
+#: parts/classes/class-theme-customizer.php:317
+msgid "-20%"
+msgstr "-20%"
+
+#: parts/classes/class-theme-customizer.php:316
+msgid "-25%"
+msgstr "-25%"
+
+#: parts/classes/class-theme-customizer.php:315
+msgid "-30%"
+msgstr "-30%"
+
+#: parts/classes/class-theme-customizer.php:314
+msgid "-35%"
+msgstr "-35%"
+
+#: parts/classes/class-theme-customizer.php:313
+msgid "-40%"
+msgstr "-40%"
+
+#: parts/classes/class-theme-customizer.php:312
+msgid "-45%"
+msgstr "-45%"
+
+#: parts/classes/class-theme-customizer.php:311
+msgid "-50%"
+msgstr "-50%"
+
+#: parts/classes/class-theme-customizer.php:306
+msgid "Headings Letterspacing"
+msgstr "Spaziatura delle lettere dei titoli"
+
+#: parts/classes/class-theme-customizer.php:725
+msgid "Whether to display excerpts in post previews."
+msgstr "Scegli se visualizzare il riassunto nell'anteprima degli articoli."
+
+#: parts/classes/class-theme-customizer.php:724
+msgid "Show Excerpts"
+msgstr "Mostra i riassunti"
+
+#: parts/classes/class-theme-customizer.php:551
+msgid "Check to show related posts on single posts."
+msgstr "Seleziona per mostrare gli articoli collegati nei singoli articoli"
+
+#: parts/classes/class-theme-customizer.php:550
+msgid "Show Related Posts"
+msgstr "Mostra gli articoli correlati"
+
+#: content.php:66
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: parts/classes/class-theme-customizer.php:294
+msgid "Lowercase"
+msgstr "Minuscolo"
+
+#: parts/classes/class-theme-customizer.php:293
+msgid "Uppercase"
+msgstr "Maiuscolo"
+
+#: parts/classes/class-theme-customizer.php:287
+msgid "Headings Case"
+msgstr "Formato dei titoli"
+
+#: functions.php:567
+msgid "Show sub menu"
+msgstr "Mostra i sotto menu"
+
+#: functions.php:859
+msgctxt "Short name of the larger font size in the Gutenberg editor."
+msgid "XL"
+msgstr "XL"
+
+#: functions.php:858
+msgctxt "Name of the larger font size in Gutenberg"
+msgid "Larger"
+msgstr "Più grande"
+
+#: functions.php:853
+msgctxt "Short name of the large font size in the Gutenberg editor."
+msgid "L"
+msgstr "L"
+
+#: functions.php:852
+msgctxt "Name of the large font size in Gutenberg"
+msgid "Large"
+msgstr "Grande"
+
+#: functions.php:847
+msgctxt "Short name of the regular font size in the Gutenberg editor."
+msgid "M"
+msgstr "M"
+
+#: functions.php:846
+msgctxt "Name of the regular font size in Gutenberg"
+msgid "Regular"
+msgstr "Normale"
+
+#: functions.php:841
+msgctxt "Short name of the small font size in the Gutenberg editor."
+msgid "S"
+msgstr "S"
+
+#: functions.php:840
+msgctxt "Name of the small font size in Gutenberg"
+msgid "Small"
+msgstr "Piccolo"
+
+#: functions.php:825
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: parts/template-tags.php:661
+msgid "Sticky post"
+msgstr "Articolo in evidenza"
+
+#: parts/template-tags.php:625
+msgid "Portfolio tags"
+msgstr "Tag portfolio"
+
+#: parts/template-tags.php:578 parts/template-tags.php:595
+msgid "In"
+msgstr "In"
+
+#: parts/template-tags.php:574
+msgid "Post categories"
+msgstr "Categorie articoli"
+
+#. Translators: %s = the author name
+#: parts/template-tags.php:561 parts/template-tags.php:1084
+msgctxt "%s = author name"
+msgid "By %s"
+msgstr "Di %s"
+
+#: parts/template-tags.php:555
+msgid "Post author"
+msgstr "Autore dell'articolo"
+
+#: functions.php:367
+msgid "Widgets in this area will be displayed in the second column in the footer."
+msgstr "I widget in questa area verranno mostrati nella seconda colonna del footer."
+
+#: functions.php:365
+msgid "Footer #2"
+msgstr "Footer #2"
+
+#: functions.php:360
+msgid "Widgets in this area will be displayed in the first column in the footer."
+msgstr "I widget in questa area verranno mostrati nella prima colonna del footer."
+
+#: functions.php:358
+msgid "Footer #1"
+msgstr "Footer #1"
+
+#: functions.php:217
+msgid "Social Menu"
+msgstr "Menu social"
+
+#: functions.php:216
+msgid "Footer Menu"
+msgstr "Menu del footer"
+
+#: functions.php:215
+msgid "Main Menu"
+msgstr "Menu principale"
+
+#: functions.php:485
+msgid "We could not find any results for your search. You can give it another try through the search form below."
+msgstr "Non siamo riusciti a trovare nessun risultato per la tua ricerca. Puoi fare un altro tentativo usando il modulo di ricerca sottostante."
+
+#. Translators: %s = Number of results
+#: functions.php:483
+msgctxt "%s = Number of results"
+msgid "We found %s result for your search."
+msgid_plural "We found %s results for your search."
+msgstr[0] "Abbiamo trovato %s risultato per la tua ricerca."
+msgstr[1] "Abbiamo trovato %s risultati per la tua ricerca."
+
+#: functions.php:453
+msgctxt "%s = The search query"
+msgid "Search: %s"
+msgstr "Cerca: %s"
+
+#. Translators: $s = name of the theme developer
+#: footer.php:71
+msgctxt "Translators: $s = name of the theme developer"
+msgid "Theme by %s"
+msgstr "Tema di %s"
+
+#: footer.php:66
+msgid "Y"
+msgstr "Y"
+
+#: parts/modal-menu.php:13
+msgid "Close"
+msgstr "Chiudi"
+
+#: header.php:152
+msgid "Menu"
+msgstr "Menu"
+
+#: parts/template-tags.php:942 header.php:141
+msgid "Search"
+msgstr "Cerca"
+
+#: pagination.php:81
+msgid "Next page"
+msgstr "Pagina successiva"
+
+#: pagination.php:77
+msgid "Previous page"
+msgstr "Pagina precedente"
+
+#: pagination.php:54
+msgid "Nothing left to load."
+msgstr "Non c'è più nulla da caricare."
+
+#: pagination.php:50
+msgid "Load More"
+msgstr "Carica altro"
+
+#: 404.php:9
+msgid "The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place."
+msgstr "La pagina che stavi cercando non è stata trovata. Potrebbe essere stato rimossa, rinominata o addirittura non esistere."
+
+#: 404.php:7
+msgid "Page Not Found"
+msgstr "Pagina non trovata"
+
+#: parts/page-header.php:32
+msgid "Scroll Down"
+msgstr "Scorri verso il basso"
+
+#: parts/widgets/recent-comments.php:121
+msgid "Number of comments to display"
+msgstr "Numero di commenti da visualizzare"
+
+#: parts/widgets/recent-comments.php:10
+msgid "Recent Comments"
+msgstr "Commenti recenti"
+
+#: parts/widgets/recent-comments.php:8
+msgid "Displays recent comments with user avatars."
+msgstr "Mostra i commenti recenti con l'avatar degli utenti."
+
+#: parts/widgets/recent-posts.php:133 parts/widgets/recent-comments.php:123
+msgid "Defaults to 3 if empty"
+msgstr "Predefinito 3 se vuoto"
+
+#: parts/widgets/recent-posts.php:131
+msgid "Number of posts to display"
+msgstr "Numero di articoli da visualizzare"
+
+#: parts/widgets/recent-posts.php:126 parts/widgets/recent-comments.php:116
+msgid "Title"
+msgstr "Titolo"
+
+#: parts/widgets/recent-posts.php:10
+msgid "Recent Posts"
+msgstr "Articoli recenti"
+
+#: parts/widgets/recent-posts.php:8
+msgid "Displays recent blog entries with post thumbnails."
+msgstr "Visualizza gli ultimi articoli del blog con le miniature."
+
+#: parts/modal-search.php:18
+msgid "Close search"
+msgstr "Chiudi ricerca"
+
+#: parts/modal-search.php:14
+msgctxt "Submit button"
+msgid "Search"
+msgstr "Cerca"
+
+#: parts/modal-search.php:13
+msgctxt "Placeholder"
+msgid "Search for&hellip;"
+msgstr "Cerca&hellip;"
+
+#: parts/modal-search.php:11
+msgctxt "Label"
+msgid "Search for:"
+msgstr "Cerca:"
+
+#: parts/classes/class-theme-customizer.php:981
+msgid "Light Background Color"
+msgstr "Colore di sfondo chiaro"
+
+#: parts/classes/class-theme-customizer.php:976
+msgid "Border Color"
+msgstr "Colore del bordo"
+
+#: parts/classes/class-theme-customizer.php:971
+msgid "Secondary Text Color"
+msgstr "Colore del testo secondario"
+
+#: parts/classes/class-theme-customizer.php:951
+msgid "Primary Text Color"
+msgstr "Colore del testo principale"
+
+#: parts/classes/class-theme-customizer.php:946
+msgid "Accent Color"
+msgstr "Colore in risalto"
+
+#: parts/classes/class-theme-customizer.php:892
+msgid "100%"
+msgstr "100%"
+
+#: parts/classes/class-theme-customizer.php:891
+msgid "90%"
+msgstr "90%"
+
+#: parts/classes/class-theme-customizer.php:890
+msgid "80%"
+msgstr "80%"
+
+#: parts/classes/class-theme-customizer.php:889
+msgid "70%"
+msgstr "70%"
+
+#: parts/classes/class-theme-customizer.php:888
+msgid "60%"
+msgstr "60%"
+
+#: parts/classes/class-theme-customizer.php:331
+#: parts/classes/class-theme-customizer.php:887
+msgid "50%"
+msgstr "50%"
+
+#: parts/classes/class-theme-customizer.php:329
+#: parts/classes/class-theme-customizer.php:886
+msgid "40%"
+msgstr "40%"
+
+#: parts/classes/class-theme-customizer.php:327
+#: parts/classes/class-theme-customizer.php:885
+msgid "30%"
+msgstr "30%"
+
+#: parts/classes/class-theme-customizer.php:325
+#: parts/classes/class-theme-customizer.php:884
+msgid "20%"
+msgstr "20%"
+
+#: parts/classes/class-theme-customizer.php:323
+#: parts/classes/class-theme-customizer.php:883
+msgid "10%"
+msgstr "10%"
+
+#: parts/classes/class-theme-customizer.php:882
+msgid "0%"
+msgstr "0%"
+
+#: parts/classes/class-theme-customizer.php:877
+msgid "Make sure that the value is high enough that the text is readable."
+msgstr "Accertati che il valore sia sufficientemente alto da rendere il testo leggibile."
+
+#: parts/classes/class-theme-customizer.php:876
+msgid "Image Overlay Opacity"
+msgstr "Opacità dell'immagine sovrapposta"
+
+#: parts/classes/class-theme-customizer.php:864
+msgid "Luminosity"
+msgstr "Luminosità"
+
+#: parts/classes/class-theme-customizer.php:863
+msgid "Color"
+msgstr "Colore"
+
+#: parts/classes/class-theme-customizer.php:862
+msgid "Saturation"
+msgstr "Saturazione"
+
+#: parts/classes/class-theme-customizer.php:861
+msgid "Hue"
+msgstr "Tonalità"
+
+#: parts/classes/class-theme-customizer.php:860
+msgid "Exclusion"
+msgstr "Esclusione"
+
+#: parts/classes/class-theme-customizer.php:859
+msgid "Difference"
+msgstr "Differenza"
+
+#: parts/classes/class-theme-customizer.php:858
+msgid "Soft Light"
+msgstr "Luce soffusa"
+
+#: parts/classes/class-theme-customizer.php:857
+msgid "Hard Light"
+msgstr "Luce intensa"
+
+#: parts/classes/class-theme-customizer.php:856
+msgid "Color Burn"
+msgstr "Colore brucia"
+
+#: parts/classes/class-theme-customizer.php:855
+msgid "Color Dodge"
+msgstr "Colore scherma"
+
+#: parts/classes/class-theme-customizer.php:854
+msgid "Lighten"
+msgstr "Schiarisci"
+
+#: parts/classes/class-theme-customizer.php:853
+msgid "Darken"
+msgstr "Scurisci"
+
+#: parts/classes/class-theme-customizer.php:852
+msgid "Overlay"
+msgstr "Sovrapponi"
+
+#: parts/classes/class-theme-customizer.php:851
+msgid "Screen"
+msgstr "Scolora"
+
+#: parts/classes/class-theme-customizer.php:850
+msgid "Multiply"
+msgstr "Moltiplica"
+
+#: parts/classes/class-theme-customizer.php:292
+#: parts/classes/class-theme-customizer.php:321
+#: parts/classes/class-theme-customizer.php:849
+msgid "Normal"
+msgstr "Normale"
+
+#: parts/classes/class-theme-customizer.php:844
+msgid "How the overlay color will blend with the image. Some browsers, like Internet Explorer and Edge, only support the \"Normal\" mode."
+msgstr "Come il colore di sovrapposizione si fonderà con l'immagine. Alcuni browser, come Internet Explorer e Edge, supportano solo la modalità \"Normale\"."
+
+#: parts/classes/class-theme-customizer.php:843
+msgid "Image Overlay Blend Mode"
+msgstr "Modalità di sovrapposizione delle immagini"
+
+#: parts/classes/class-theme-customizer.php:777
+msgid "Creates a parallax effect when the visitor scrolls."
+msgstr "Crea un effetto parallasse quando l'utente scorre la pagina."
+
+#: parts/classes/class-theme-customizer.php:776
+msgid "Fixed Background Image"
+msgstr "Immagine di sfondo fissa"
+
+#: parts/classes/class-theme-customizer.php:830
+msgid "The color used for the text in the featured image overlay."
+msgstr "Il colore usato per il testo sovrapposto all'immagine in evidenza"
+
+#: parts/classes/class-theme-customizer.php:829
+msgid "Image Overlay Text Color"
+msgstr "Colore del testo sovrapposto all'immagine"
+
+#: parts/classes/class-theme-customizer.php:815
+msgid "The color used for the featured image overlay. Defaults to the accent color."
+msgstr "Colore utilizzato per sovrapporsi all'immagine in evidenza. Il valore predefinito è quello del colore principale."
+
+#: parts/classes/class-theme-customizer.php:814
+msgid "Image Overlay Background Color"
+msgstr "Colore sovrapposto all'immagine di sfondo"
+
+#: parts/classes/class-theme-customizer.php:760
+msgid "Settings for the \"Cover Template\" page template."
+msgstr "Impostazioni per il template di pagina \"Copertina\"."
+
+#. Template Name of the theme
+#: parts/classes/class-theme-customizer.php:758
+msgid "Cover Template"
+msgstr "Template Copertina"
+
+#: parts/classes/class-theme-customizer.php:638
+msgid "Previous and next page links"
+msgstr "Link alla pagina precedente e successiva"
+
+#: parts/classes/class-theme-customizer.php:637
+msgid "Load more on scroll"
+msgstr "Continua a caricare scorrendo la pagina"
+
+#: parts/classes/class-theme-customizer.php:636
+msgid "Load more on button click"
+msgstr "Continua a caricare facendo clic sul pulsante"
+
+#: parts/classes/class-theme-customizer.php:633
+msgid "Pagination Type"
+msgstr "Tipo di paginazione"
+
+#: parts/classes/class-theme-customizer.php:749
+msgid "Select post meta to display on archive pages."
+msgstr "Seleziona i meta dell'articolo da visualizzare nelle pagine di archivio"
+
+#: parts/classes/class-theme-customizer.php:748
+msgid "Archive Post Meta"
+msgstr "Meta degli articoli di archivio"
+
+#: parts/classes/class-theme-customizer.php:614
+msgid "Select post meta to display below the content."
+msgstr "Seleziona i meta degli articoli da visualizzare dopo il contenuto."
+
+#: parts/classes/class-theme-customizer.php:613
+msgid "Bottom Post Meta"
+msgstr "Meta degli articoli sotto il contenuto"
+
+#: parts/classes/class-theme-customizer.php:600
+msgid "Select post meta to display above the content."
+msgstr "Seleziona i meta degli articoli da visualizzare prima del contenuto."
+
+#: parts/classes/class-theme-customizer.php:599
+msgid "Top Post Meta"
+msgstr "Meta degli articoli sopra il contenuto"
+
+#: parts/classes/class-theme-customizer.php:581
+msgid "Project tags"
+msgstr "Tag di progetto"
+
+#: parts/classes/class-theme-customizer.php:578 parts/template-tags.php:591
+msgid "Portfolio types"
+msgstr "Tipi di portfolio"
+
+#: parts/classes/class-theme-customizer.php:573 parts/template-tags.php:608
+msgid "Tags"
+msgstr "Tag"
+
+#: parts/classes/class-theme-customizer.php:572
+msgid "Sticky status"
+msgstr "Stato in evidenza"
+
+#: parts/classes/class-theme-customizer.php:571 parts/template-tags.php:538
+msgid "Post date"
+msgstr "Data dell'articolo"
+
+#: parts/classes/class-theme-customizer.php:570
+msgid "Edit link (for logged in users)"
+msgstr "Link di modifica (per utenti connessi)"
+
+#: parts/classes/class-theme-customizer.php:569
+msgid "Comments"
+msgstr "Commenti"
+
+#: parts/classes/class-theme-customizer.php:568
+msgid "Categories"
+msgstr "Categorie"
+
+#: parts/classes/class-theme-customizer.php:567 parts/template-tags.php:937
+msgid "Author"
+msgstr "Autore"
+
+#: parts/classes/class-theme-customizer.php:481
+msgid "Check to display a regular menu on desktop screens, instead of the menu button."
+msgstr "Seleziona per mostrare un menu normale su schermi desktop, invece del pulsante menu."
+
+#: parts/classes/class-theme-customizer.php:465
+msgid "Check to disable the search button in the header."
+msgstr "Seleziona per disabilitare il pulsante di ricerca nell'header."
+
+#: parts/classes/class-theme-customizer.php:464
+msgid "Disable Search Button"
+msgstr "Disabilita il pulsante di ricerca"
+
+#: parts/classes/class-theme-customizer.php:449
+msgid "Stick the header to the top of the window when the visitor scrolls."
+msgstr "Fissa l'header in cima alla finestra quando l'utente scorre la pagina."
+
+#: parts/classes/class-theme-customizer.php:448
+msgid "Sticky Header"
+msgstr "Header fisso"
+
+#: parts/classes/class-theme-customizer.php:432
+msgid "Settings for the site header."
+msgstr "Impostazioni per l'header del sito."
+
+#: parts/classes/class-theme-customizer.php:429
+msgid "Site Header"
+msgstr "Header del sito"
+
+#: parts/classes/class-theme-customizer.php:421
+msgid "Disable Fallback Image"
+msgstr "Disabilita immagine di riserva"
+
+#: parts/classes/class-theme-customizer.php:404
+msgid "The selected image will be used when a post is missing a featured image. A default fallback image included in the theme will be used if no image is set."
+msgstr "L'immagine selezionata verrà utilizzata quando a un articolo manca un'immagine in evidenza. Un'immagine di ripiego predefinita inclusa nel tema sarà usata se non è impostata alcuna immagine."
+
+#: parts/classes/class-theme-customizer.php:403
+msgid "Fallback Image"
+msgstr "Immagine di riserva"
+
+#: parts/classes/class-theme-customizer.php:393
+msgid "Checking this will decrease load times, but also make images look less sharp on high-resolution screens."
+msgstr "Selezionare questa opzione fa diminuire il tempo di caricamento ma rende le immagini meno nitide su schermi ad alta risoluzione."
+
+#: parts/classes/class-theme-customizer.php:392
+msgid "Use Low-Resolution Images"
+msgstr "Usa immagini a bassa risoluzione"
+
+#: parts/classes/class-theme-customizer.php:377
+msgid "Settings for images in Chaplin."
+msgstr "Impostazioni per le immagini in Chaplin."
+
+#: parts/classes/class-theme-customizer.php:374
+msgid "Images"
+msgstr "Immagini"
+
+#: parts/classes/class-theme-customizer.php:364
+msgid "Vietnamese"
+msgstr "Vietnamita"
+
+#: parts/classes/class-theme-customizer.php:363
+msgid "Greek Extended"
+msgstr "Greco esteso"
+
+#: parts/classes/class-theme-customizer.php:362
+msgid "Greek"
+msgstr "Greco"
+
+#: parts/classes/class-theme-customizer.php:361
+msgid "Cyrillic Extended"
+msgstr "Cirillico esteso"
+
+#: parts/classes/class-theme-customizer.php:360
+msgid "Cyrillic"
+msgstr "Cirillico"
+
+#: parts/classes/class-theme-customizer.php:359
+msgid "Latin Extended"
+msgstr "Latino esteso"
+
+#: parts/classes/class-theme-customizer.php:358
+msgid "Latin"
+msgstr "Latino"
+
+#: parts/classes/class-theme-customizer.php:356
+msgid "Note: All fonts do not support all languages. Check Google Fonts to make sure."
+msgstr "Nota: non tutti i font sono disponibili in tutte le lingue. Controlla Google Fonts per essere sicuro."
+
+#: parts/classes/class-theme-customizer.php:355
+msgid "Languages"
+msgstr "Lingue"
+
+#: parts/classes/class-theme-customizer.php:275
+msgid "Black (900)"
+msgstr "Black (900)"
+
+#: parts/classes/class-theme-customizer.php:274
+msgid "Extra Bold (800)"
+msgstr "Extra Bold (800)"
+
+#: parts/classes/class-theme-customizer.php:273
+msgid "Bold (700)"
+msgstr "Bold (700)"
+
+#: parts/classes/class-theme-customizer.php:272
+msgid "Semi Bold (600)"
+msgstr "Semi Bold (600)"
+
+#: parts/classes/class-theme-customizer.php:271
+msgid "Medium (500)"
+msgstr "Medium (500)"
+
+#: parts/classes/class-theme-customizer.php:270
+msgid "Normal (400)"
+msgstr "Normal (400)"
+
+#: parts/classes/class-theme-customizer.php:269
+msgid "Light (300)"
+msgstr "Light (300)"
+
+#: parts/classes/class-theme-customizer.php:268
+msgid "Ultra Light (200)"
+msgstr "Ultra Light (200)"
+
+#: parts/classes/class-theme-customizer.php:267
+msgid "Thin (100)"
+msgstr "Thin (100)"
+
+#: parts/classes/class-theme-customizer.php:262
+msgid "Note: All fonts do not support all weights."
+msgstr "Nota: non tutti i font supportano lo spessore del font."
+
+#: parts/classes/class-theme-customizer.php:261
+msgid "Headings Weight"
+msgstr "Spessore dei titoli"
+
+#: parts/classes/class-theme-customizer.php:237
+msgid "Enter the font name"
+msgstr "Inserisci il nome del font"
+
+#: parts/classes/class-theme-customizer.php:213
+msgid "Headings Font"
+msgstr "Font dei titoli"
+
+#: parts/classes/class-theme-customizer.php:208
+msgid "Body Font"
+msgstr "Font del contenuto"
+
+#: parts/classes/class-theme-customizer.php:199
+msgid "Specify which fonts to use. Chaplin supports all fonts on <a href=\"https://fonts.google.com\" target=\"_blank\">Google Fonts</a> and all <a href=\"https://www.w3schools.com/cssref/css_websafe_fonts.asp\" target=\"_blank\">web safe fonts</a>."
+msgstr "Specifica quale font usare. Chaplin supporta tutti i caratteri di <a href=\"https://fonts.google.com\" target=\"_blank\">Google Fonts</a> e tutti i<a href=\"https://www.w3schools.com/cssref/css_websafe_fonts.asp\" target=\"_blank\">font web sicuri</a>."
+
+#: parts/classes/class-theme-customizer.php:196
+msgid "Fonts"
+msgstr "Font"
+
+#: parts/classes/class-theme-customizer.php:73
+msgid "Scales the logo to half its uploaded size, making it sharp on high-res screens."
+msgstr "Ridimensiona il logo a metà delle dimensioni caricate, rendendolo nitido su schermi ad alta risoluzione."
+
+#: parts/classes/class-theme-customizer.php:72
+msgid "Retina logo"
+msgstr "Logo retina"
+
+#: parts/classes/class-comment-walker.php:107
+msgid "By Post Author"
+msgstr "Per autore dell'articolo"
+
+#: parts/classes/class-comment-walker.php:93 parts/template-tags.php:679
+msgid "Edit"
+msgstr "Modifica"
+
+#: parts/classes/class-comment-walker.php:76
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#. Translators: 1 = comment date, 2 = comment time
+#: parts/classes/class-comment-walker.php:59
+msgid "%1$s at %2$s"
+msgstr "%1$s alle %2$s"
+
+#. Translators: %s = comment author link
+#: parts/classes/class-comment-walker.php:45
+msgid "%s <span class=\"screen-reader-text says\">says:</span>"
+msgstr "%s <span class=\"screen-reader-text says\">ha detto:</span>"
+
+#: parts/related-posts.php:129
+msgid "Related Posts"
+msgstr "Articoli correlati"
+
+#: comments.php:54
+msgid "Older Comments"
+msgstr "Commenti meno recenti"
+
+#: comments.php:53
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+#. Translators: %s = the number of comments
+#: comments.php:27
+msgctxt "Translators: %s = the number of comments"
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s commento"
+msgstr[1] "%s commenti"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.andersnoren.se/teman/chaplin-wordpress-theme/"
+msgstr "https://www.andersnoren.se/teman/chaplin-wordpress-theme/"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.andersnoren.se"
+msgstr "https://www.andersnoren.se"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Anders Norén"
+msgstr "Anders Norén"

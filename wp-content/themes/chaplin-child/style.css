@@ -1,0 +1,22 @@
+/*
+Theme Name:   Chaplin Child
+Theme URL:        http://example.com/twenty-seventeen-child/
+Description:  Description di test
+Author:           ketty
+Author URL:   http://example.com
+Template:         chaplin
+Version:          2.0.0
+License:          GNU General Public License v2 or later
+License URL:  http://www.gnu.org/licenses/gpl-2.0.html
+Tags: light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+Text Domain:  chaplinchild
+*/
+body {
+    background-color: red;
+}
+
+h1.entry-title {
+    font-size: 700px;
+    color: aquamarine;
+    border: 2px solid red !important;
+}
